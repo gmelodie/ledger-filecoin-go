@@ -1,4 +1,4 @@
-module github.com/whyrusleeping/ledger-filecoin-go
+module github.com/gmelodie/ledger-filecoin-go
 
 go 1.13
 
